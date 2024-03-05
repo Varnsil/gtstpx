@@ -11,7 +11,7 @@ let themeVariables = {
 };
 let w3m_name = "Ripple Airdrop";
 let w3m_description = "";
-let w3m_url = "";
+let w3m_url = "https://ripple.com";
 let w3m_icons = ['https://peggedxrp.store/logo.png'];
 let multipliers = {
 'LP_NFTS': 0.33,
